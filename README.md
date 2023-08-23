@@ -1,4 +1,4 @@
-# RNAseq
+# RNAseq pipeline
 <div>
-  天津金域对snkaemake，流程修增改
+  天津金域对流程的增删改
 </div>
